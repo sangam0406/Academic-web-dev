@@ -1,0 +1,18 @@
+.hero-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-attachment: fixed;
+}
+.title {
+  width: 700px;
+  color: #fcffe7;
+  margin-left: -200px;
+  height: 200px;
+  letter-spacing: 3px;
+  color: #fbfeeb;
+}
+.title span {
+  color: #dcfe50;
+}
